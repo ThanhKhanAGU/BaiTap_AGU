@@ -1,0 +1,63 @@
+.main-header{
+
+}
+.main-content{
+
+}
+.main-footer{
+    background: black;
+    color: white;
+    padding: 70px 30px;
+}
+.main-footer h6{
+    text-transform: uppercase;
+}
+.main-footer h2{
+    font-size: 50px ;
+}
+.menuleft li{
+    padding: 10px;
+}
+.menuTitle
+{
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.costomContent div div * {
+    padding: 0 30px;
+}
+.myCard{
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+.myCard img{
+    height: 100px;
+}
+.myCard div{
+    margin-left: 20px;
+}
+.ct-card{
+    width: 48%;
+    margin: 1%;
+    box-sizing: border-box;
+}
+.menuS div ul li{
+    margin-bottom: 15px;
+}
+.menuS{
+    padding: 20px ;
+    border-bottom: 1px rgb(201, 201, 201) solid;
+}
+.logoContent *{
+    height: 100px;
+    text-align: center;
+}
+.logoContent * img{
+    width: 70%;
+}
